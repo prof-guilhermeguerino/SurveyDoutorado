@@ -1,8 +1,8 @@
-﻿name;parent;value
-Origin;;
-Design de interface;Origin;36
-Aplicar as práticas de UX;Origin;26
-Marketing;Origin;13
-Desenvolver pesquisas e/ou avaliações com usuários;Origin;12
-Produção de conteúdo digital;Origin;11
-Comercial;Origin;3
+name,parent,value
+Origin,,
+Design de interface,Origin,36
+Aplicar as práticas de UX,Origin,26
+Marketing,Origin,13
+Desenvolver pesquisas e/ou avaliações com usuários,Origin,12
+Produção de conteúdo digital,Origin,11
+Comercial,Origin,3
