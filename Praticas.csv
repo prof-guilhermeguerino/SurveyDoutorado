@@ -1,67 +1,67 @@
 Prática,Etapa,Valor
-Análise competitiva,Engenharia de Requisitos,35
-Análise competitiva,Design,39
-Análise competitiva,Desenvolvimento,30
-Análise competitiva,Teste e Integração,11
-Análise competitiva,Implantação,13
-Análise competitiva,Manutenção,6
-Entrevistas,Engenharia de Requisitos,27
-Entrevistas,Design,32
-Entrevistas,Desenvolvimento,29
-Entrevistas,Teste e Integração,13
-Entrevistas,Implantação,15
-Entrevistas,Manutenção,9
-Survey,Engenharia de Requisitos,19
+Competitive Analysis,Requirements Engineering,35
+Competitive Analysis,Design,39
+Competitive Analysis,Development,30
+Competitive Analysis,Testing and Integration,11
+Competitive Analysis,Deployment,13
+Competitive Analysis,Maintenance,6
+Interview,Requirements Engineering,27
+Interview,Design,32
+Interview,Development,29
+Interview,Testing and Integration,13
+Interview,Deployment,15
+Interview,Maintenance,9
+Survey,Requirements Engineering,19
 Survey,Design,25
-Survey,Desenvolvimento,21
-Survey,Teste e Integração,10
-Survey,Implantação,13
-Survey,Manutenção,8
-Mapa de fluxo,Engenharia de Requisitos,27
-Mapa de fluxo,Design,38
-Mapa de fluxo,Desenvolvimento,29
-Mapa de fluxo,Teste e Integração,13
-Mapa de fluxo,Implantação,14
-Mapa de fluxo,Manutenção,10
-Wireframe,Engenharia de Requisitos,16
+Survey,Development,21
+Survey,Testing and Integration,10
+Survey,Deployment,13
+Survey,Maintenance,8
+Flow Map,Requirements Engineering,27
+Flow Map,Design,38
+Flow Map,Development,29
+Flow Map,Testing and Integration,13
+Flow Map,Deployment,14
+Flow Map,Maintenance,10
+Wireframe,Requirements Engineering,16
 Wireframe,Design,42
-Wireframe,Desenvolvimento,30
-Wireframe,Teste e Integração,10
-Wireframe,Implantação,8
-Wireframe,Manutenção,4
-Protótipo,Engenharia de Requisitos,13
-Protótipo,Design,32
-Protótipo,Desenvolvimento,39
-Protótipo,Teste e Integração,17
-Protótipo,Implantação,14
-Protótipo,Manutenção,6
-Teste de usabilidade,Engenharia de Requisitos,11
-Teste de usabilidade,Design,27
-Teste de usabilidade,Desenvolvimento,30
-Teste de usabilidade,Teste e Integração,30
-Teste de usabilidade,Implantação,24
-Teste de usabilidade,Manutenção,12
-Benchmarking,Engenharia de Requisitos,23
+Wireframe,Development,30
+Wireframe,Testing and Integration,10
+Wireframe,Deployment,8
+Wireframe,Maintenance,4
+Prototyping,Requirements Engineering,13
+Prototyping,Design,32
+Prototyping,Development,39
+Prototyping,Testing and Integration,17
+Prototyping,Deployment,14
+Prototyping,Maintenance,6
+Usability Test,Requirements Engineering,11
+Usability Test,Design,27
+Usability Test,Development,30
+Usability Test,Testing and Integration,30
+Usability Test,Deployment,24
+Usability Test,Maintenance,12
+Benchmarking,Requirements Engineering,23
 Benchmarking,Design,29
-Benchmarking,Desenvolvimento,20
-Benchmarking,Teste e Integração,11
-Benchmarking,Implantação,12
-Benchmarking,Manutenção,11
-Storyboard,Engenharia de Requisitos,16
+Benchmarking,Development,20
+Benchmarking,Testing and Integration,11
+Benchmarking,Deployment,12
+Benchmarking,Maintenance,11
+Storyboard,Requirements Engineering,16
 Storyboard,Design,24
-Storyboard,Desenvolvimento,16
-Storyboard,Teste e Integração,8
-Storyboard,Implantação,5
-Storyboard,Manutenção,4
-Card sorting,Engenharia de Requisitos,13
+Storyboard,Development,16
+Storyboard,Testing and Integration,8
+Storyboard,Deployment,5
+Storyboard,Maintenance,4
+Card sorting,Requirements Engineering,13
 Card sorting,Design,19
-Card sorting,Desenvolvimento,11
-Card sorting,Teste e Integração,6
-Card sorting,Implantação,7
-Card sorting,Manutenção,2
-Personas,Engenharia de Requisitos,26
+Card sorting,Development,11
+Card sorting,Testing and Integration,6
+Card sorting,Deployment,7
+Card sorting,Maintenance,2
+Personas,Requirements Engineering,26
 Personas,Design,43
-Personas,Desenvolvimento,23
-Personas,Teste e Integração,13
-Personas,Implantação,15
-Personas,Manutenção,12
+Personas,Development,23
+Personas,Testing and Integration,13
+Personas,Deployment,15
+Personas,Maintenance,12
